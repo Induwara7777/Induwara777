@@ -1,63 +1,65 @@
-<!-- OFFICIAL GITHUB PROFILE README -->
+<!-- =========================================
+     SIDATH - GITHUB PROFILE README
+========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATTO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidatto+Induwara;ソフトウェアエンジニアをめざしています;Python+%7C+JavaScript+%7C+Java;Learn+%7C+Build+%7C+Improve;まいにち+べんきょう+しています" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath+Induwara;Aspiring+Software+Engineer;Python+%7C+JavaScript+%7C+Java;Web+Development+Enthusiast;Learn+%7C+Build+%7C+Improve;まいにち+べんきょう+しています" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dissanayaka007">
-    <img src="https://img.shields.io/badge/GitHub-Dissanayaka007-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Induwara7777">
+    <img src="https://img.shields.io/badge/GitHub-Induwara7777-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Dissanayaka007&style=for-the-badge&color=58A6FF" />
+  <img src="https://komarev.com/ghpvc/?username=Induwara7777&style=for-the-badge&color=58A6FF" />
 </p>
 
 ---
 
-## 🧠 About Me | わたしについて
+## 👋 About Me | わたしについて
 
-Hello! I'm **Sidatto Induwara**, an aspiring Software Engineer passionate about programming, technology, and building modern digital solutions.
+Hello! I'm **Sidath Induwara**, an aspiring Software Engineer passionate about programming, technology, and software development.
 
-こんにちは！わたしは **Sidatto Induwara** です。
+I enjoy learning programming languages, building projects, and improving my development skills every day.
 
-プログラミングとコンピューターが すきです。
+こんにちは！わたしは **Sidath Induwara** です。
+
+プログラミングと コンピューターが すきです。
 
 ソフトウェアエンジニアに なりたいです。
 
-I enjoy learning new programming languages, exploring software development, and creating useful projects.
+### A Little About Me
 
-あたらしい プログラミングの ことばを べんきょうしています。
+- 👨‍💻 Aspiring Software Engineer
+- 🌱 Currently learning Python, JavaScript, and Java
+- 🌐 Interested in Web Development
+- 💡 Passionate about Programming and Technology
+- 🛠️ Building personal projects
+- 📚 Learning something new every day
+- 🎯 Working towards becoming a Professional Software Engineer
 
-いろいろな プロジェクトを つくっています。
+### 日本語 | にほんご
 
-- 👨‍💻 Aspiring Software Engineer | エンジニアを めざしています
-- 🌱 Learning Python, JavaScript & Java | べんきょうしています
-- 🌐 Interested in Web Development | ウェブかいはつに きょうみが あります
-- 💡 Love Technology & Programming | テクノロジーが すきです
-- 🛠️ Building new projects | あたらしい プロジェクトを つくっています
-- 📚 Learning every day | まいにち べんきょうしています
-- 🎯 Goal: Become a Professional Software Engineer | プロの エンジニアに なりたいです
+- プログラミングを べんきょうしています。
+- ウェブサイトを つくることが すきです。
+- あたらしい ぎじゅつを まなんでいます。
+- エンジニアに なりたいです。
 
 ---
 
-## 🚀 My Development Journey | わたしの べんきょう
+## 🚀 My Development Journey | べんきょう
 
-| Area | Focus |
+| Area | Technologies / Focus |
 |---|---|
 | 💻 Programming | Python, Java, JavaScript |
 | 🌐 Web Development | HTML, CSS, JavaScript |
-| 🎨 Frontend | Modern UI, Responsive Design |
+| 🎨 Frontend Development | Responsive Design, Modern UI |
 | ⚙️ Software Development | Java OOP, Problem Solving |
-| 🔧 Tools | Git, GitHub, VS Code, IntelliJ IDEA |
-
-**日本語 | にほんご**
-
-- プログラミングを べんきょうしています。
-- ウェブサイトを つくっています。
-- あたらしい ぎじゅつを まなんでいます。
+| 🔧 Version Control | Git, GitHub |
+| 🛠️ Development Tools | VS Code, IntelliJ IDEA |
 
 ---
 
@@ -69,52 +71,90 @@ I enjoy learning new programming languages, exploring software development, and 
 
 ---
 
-## 📚 My Learning Progress | べんきょうの しんちょく
+## 📚 What I'm Learning | べんきょうしていること
 
-- 🐍 Python Programming | Python
-- ☕ Java Programming & OOP | Javaとオブジェクトしこう
-- 🌐 HTML5 & CSS3 | ウェブデザイン
-- ⚡ JavaScript Fundamentals | JavaScript
-- 🎨 Responsive Web Development | レスポンシブデザイン
-- 🔗 Git & GitHub | バージョンかんり
-- ⚛️ React.js | これから べんきょうします
+- 🐍 Python Programming
+- ☕ Java Programming
+- 🧠 Object-Oriented Programming (OOP)
+- 🌐 HTML5 & CSS3
+- ⚡ JavaScript Fundamentals
+- 🎨 Responsive Web Design
+- 🔗 Git & GitHub
+- ⚛️ React.js
+- 💻 Software Development Fundamentals
 
----
+### 日本語 | にほんご
 
-## 🎯 Current Goals | もくひょう
-
-- [ ] Improve Python skills | Pythonを もっと べんきょうする
-- [ ] Master JavaScript | JavaScriptを まなぶ
-- [ ] Learn Advanced Java & OOP | Javaを もっと まなぶ
-- [ ] Build modern websites | ウェブサイトを つくる
-- [ ] Learn React.js | React.jsを まなぶ
-- [ ] Develop real-world projects | プロジェクトを つくる
-- [ ] Improve my GitHub portfolio | GitHubを よくする
-- [ ] Become a Professional Software Engineer | エンジニアに なる
+- Pythonを べんきょうしています。
+- Javaを べんきょうしています。
+- HTMLと CSSを まなんでいます。
+- JavaScriptを まなんでいます。
+- GitHubを つかっています。
 
 ---
 
-## 🏆 GitHub Highlights | GitHubの じっせき
+## 🎯 My Goals | もくひょう
+
+- [ ] Improve my Python programming skills
+- [ ] Learn JavaScript deeply
+- [ ] Improve Java and OOP knowledge
+- [ ] Build modern and responsive websites
+- [ ] Learn React.js
+- [ ] Create real-world software projects
+- [ ] Improve problem-solving skills
+- [ ] Build a strong GitHub portfolio
+- [ ] Become a Professional Software Engineer
+
+### 日本語 | にほんご
+
+- [ ] Pythonを もっと べんきょうする
+- [ ] JavaScriptを まなぶ
+- [ ] Javaを もっと まなぶ
+- [ ] ウェブサイトを つくる
+- [ ] いい プロジェクトを つくる
+- [ ] エンジニアに なる
+
+---
+
+## 💻 My Projects | プロジェクト
+
+I use my GitHub repositories to share my learning journey, coding practice, and personal projects.
+
+GitHubで べんきょうしたことや プロジェクトを こうかいしています。
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dissanayaka007&theme=algolia&no-frame=true&row=1&column=6" width="100%" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dissanayaka007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dissanayaka007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dissanayaka007&theme=tokyonight&hide_border=true" width="100%" />
+  <a href="https://github.com/Induwara7777?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 Contribution Activity | コードの かつどう
+## 🏆 GitHub Achievements | GitHubの じっせき
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dissanayaka007&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Induwara7777&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Statistics | GitHubの データ
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Induwara7777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Induwara7777&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Induwara7777&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity | コードの かつどう
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Induwara7777&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -122,8 +162,8 @@ I enjoy learning new programming languages, exploring software development, and 
 ## 🌐 Connect With Me | れんらく
 
 <p align="center">
-  <a href="https://github.com/Dissanayaka007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Induwara7777">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -141,12 +181,14 @@ I enjoy learning new programming languages, exploring software development, and 
   「まいにち べんきょうして、まいにち せいちょうしましょう。」
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+  <b>CODE • LEARN • BUILD • IMPROVE</b>
+  <br />
+  <b>コード • べんきょう • つくる • しんぽ</b>
 </p>
 
 <p align="center">
-  <b>Code • Learn • Build • Innovate</b>
-  <br />
-  <b>コード • べんきょう • つくる • しんぽ</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 </p>
