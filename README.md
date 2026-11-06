@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;ソフトウェアエンジニア;Web+Developer;ウェブデベロッパー;Building+Websites+%26+Digital+Tools;ウェブサイトとツールをつくっています" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;ソフトウェアエンジニア;Web+Developer;ウェブデベロッパー;Building+Websites+%26+Digital+Tools" />
 </p>
 
 <p align="center">
