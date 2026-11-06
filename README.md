@@ -2,11 +2,11 @@
 <!-- SIDATH | OFFICIAL GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ソフトウェアエンジニア&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;ソフトウェアエンジニア;Web+Developer;ウェブデベロッパー;Building+Websites+%26+Digital+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;Web+Developer;Building+Digital+Tools;Design+%7C+Develop+%7C+Create" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -74,6 +74,14 @@ I enjoy developing websites, building software applications, creating digital to
 
 ---
 
+## 🏆 GitHub Achievements | GitHubの実績
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Induwara7777&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📊 GitHub Statistics | GitHub統計
 
 <p align="center">
@@ -83,6 +91,14 @@ I enjoy developing websites, building software applications, creating digital to
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Induwara7777&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity | コントリビューション
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Induwara7777&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
