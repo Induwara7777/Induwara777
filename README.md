@@ -2,15 +2,15 @@
 <!-- SIDATH | OFFICIAL GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Frontend+Developer;Web+Developer;Building+Websites+%26+Digital+Tools;Design+%7C+Develop+%7C+Create" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;Web+Developer;Building+Websites+%26+Digital+Tools;Design+%7C+Develop+%7C+Create" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Software-Engineer-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Development-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Induwara7777&style=for-the-badge&color=58A6FF" />
 </p>
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Sidath**, a Frontend Developer who enjoys creating modern, responsive, and user-friendly websites.
+Hi! I'm **Sidath**, a Software Engineer passionate about programming, technology, and creating useful digital solutions.
 
-I enjoy designing beautiful interfaces, developing web applications, and building useful digital tools.
+I enjoy developing websites, building software applications, creating digital tools, and turning ideas into reality.
 
-- 💻 Frontend Developer
+- 💻 Software Engineer
 - 🌐 Web Development
 - 🎨 Modern UI & Responsive Design
 - ⚙️ Website & Web Application Development
@@ -57,7 +57,7 @@ I enjoy designing beautiful interfaces, developing web applications, and buildin
 - 📱 Responsive Web Applications
 - 🎨 Beautiful User Interfaces
 - ⚙️ Useful Digital Tools
-- 💻 Personal Software Projects
+- 💻 Software Projects
 - ✨ Interactive Web Experiences
 
 ---
