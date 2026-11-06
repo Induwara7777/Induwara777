@@ -2,11 +2,11 @@
 <!-- SIDATH | OFFICIAL GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=SIDATH&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ソフトウェアエンジニア&descAlignY=58&descSize=16" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;Web+Developer;Building+Websites+%26+Digital+Tools;Design+%7C+Develop+%7C+Create" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sidath;Software+Engineer;ソフトウェアエンジニア;Web+Developer;ウェブデベロッパー;Building+Websites+%26+Digital+Tools;ウェブサイトとツールをつくっています" />
 </p>
 
 <p align="center">
@@ -17,52 +17,56 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | 自己紹介（じこしょうかい）
 
 Hi! I'm **Sidath**, a Software Engineer passionate about programming, technology, and creating useful digital solutions.
 
+こんにちは！**Sidath** です。プログラミングとテクノロジーが好きです。
+
 I enjoy developing websites, building software applications, creating digital tools, and turning ideas into reality.
 
-- 💻 Software Engineer
-- 🌐 Web Development
-- 🎨 Modern UI & Responsive Design
-- ⚙️ Website & Web Application Development
-- 🛠️ Creating Useful Digital Tools
-- 💡 Creative Problem Solving
+ウェブサイトやソフトウェア、便利なデジタルツールを作ることが好きです。
+
+- 💻 Software Engineer | ソフトウェアエンジニア
+- 🌐 Web Development | ウェブ開発
+- 🎨 Modern UI & Responsive Design | モダンなデザイン
+- ⚙️ Website & Web Application Development | ウェブサイトとウェブアプリ開発
+- 🛠️ Creating Useful Digital Tools | 便利なツールの開発
+- 💡 Creative Problem Solving | 問題解決
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools | 技術とツール
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,cs&perline=6" />
 </p>
 
-### Programming & Development
+### Programming & Development | プログラミングと開発
 
-| Technology | Description |
-|---|---|
-| HTML5 | Web Structure |
-| CSS3 | Styling & Responsive Design |
-| JavaScript | Web Interactivity |
-| Python | Programming |
-| Node.js | JavaScript Runtime & Backend |
-| C# | Software Development |
-
----
-
-## 🚀 What I Build
-
-- 🌐 Modern Websites
-- 📱 Responsive Web Applications
-- 🎨 Beautiful User Interfaces
-- ⚙️ Useful Digital Tools
-- 💻 Software Projects
-- ✨ Interactive Web Experiences
+| Technology | Description | 日本語 |
+|---|---|---|
+| HTML5 | Web Structure | ウェブ構造 |
+| CSS3 | Styling & Responsive Design | デザイン |
+| JavaScript | Web Interactivity | ウェブ機能 |
+| Python | Programming | プログラミング |
+| Node.js | JavaScript Runtime & Backend | バックエンド |
+| C# | Software Development | ソフトウェア開発 |
 
 ---
 
-## 🔧 Development Tools
+## 🚀 What I Build | 作っているもの
+
+- 🌐 Modern Websites | モダンなウェブサイト
+- 📱 Responsive Web Applications | レスポンシブウェブアプリ
+- 🎨 Beautiful User Interfaces | 美しいユーザーインターフェース
+- ⚙️ Useful Digital Tools | 便利なデジタルツール
+- 💻 Software Projects | ソフトウェアプロジェクト
+- ✨ Interactive Web Experiences | インタラクティブなウェブ体験
+
+---
+
+## 🔧 Development Tools | 開発ツール
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio&perline=5" />
@@ -70,7 +74,7 @@ I enjoy developing websites, building software applications, creating digital to
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics | GitHub統計
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Induwara7777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -83,7 +87,7 @@ I enjoy developing websites, building software applications, creating digital to
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me | つながりましょう
 
 <p align="center">
   <a href="https://github.com/Induwara7777">
@@ -98,9 +102,15 @@ I enjoy developing websites, building software applications, creating digital to
 </p>
 
 <p align="center">
+  「すばらしいものは、一行のコードから生まれます。」
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
   <b>DESIGN • DEVELOP • CREATE • INNOVATE</b>
+  <br />
+  <b>デザイン • 開発 • 創造 • 革新</b>
 </p>
