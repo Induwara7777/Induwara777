@@ -70,14 +70,6 @@ I enjoy developing websites, building software applications, creating digital to
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Induwara7777&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
